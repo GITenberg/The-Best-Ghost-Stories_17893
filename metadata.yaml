@@ -1,0 +1,43 @@
+_repo: The-Best-Ghost-Stories_17893
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Reeve, Arthur B. (Arthur Benjamin)
+    alias: Reeve, Arthur Benjamin
+    birthdate: 1880
+    deathdate: &id001 1936
+    gutenberg_agent_id: '752'
+    url: http://www.gutenberg.org/2009/agents/752
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_B._Reeve
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: French, Joseph Lewis
+    birthdate: 1858
+    deathdate: *id001
+    gutenberg_agent_id: '8001'
+    url: http://www.gutenberg.org/2009/agents/8001
+description: ''
+gutenberg_issued: '2006-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17893'
+  lccn: '19025951'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Ghost stories'
+tableOfContents: 'Introduction: "The fascination of the ghost story", by A. B. Reeve
+  -- The apparition of Mrs. Veal, by D. De Foe -- Canon Alberic''s scrap-book, by
+  M. R. James -- The haunted and the haunters, by E. Bulwer-Lytton -- The silent woman,
+  by L. Kompert -- Banshees -- The man who went too far, by E. F. Benson -- The woman''s
+  ghost story, by A. Blackwood -- The phantom rickshaw, by R. Kipling -- The rival
+  ghosts, by B. Matthews -- The damned thing, by A. Bierce -- The interval, by V.
+  O''Sullivan -- Dey ain''t no ghosts, by E. P. Butler -- Some real American ghosts.'
+title: The Best Ghost Stories
+url: http://www.gutenberg.org/ebooks/17893
