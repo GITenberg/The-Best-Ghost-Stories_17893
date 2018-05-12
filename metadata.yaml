@@ -5,7 +5,7 @@ contributor:
     agent_name: Reeve, Arthur B. (Arthur Benjamin)
     alias: Reeve, Arthur Benjamin
     birthdate: 1880
-    deathdate: &id001 1936
+    deathdate: 1936
     gutenberg_agent_id: '752'
     url: http://www.gutenberg.org/2009/agents/752
     wikipedia: http://en.wikipedia.org/wiki/Arthur_B._Reeve
@@ -16,10 +16,12 @@ creator:
   editor:
     agent_name: French, Joseph Lewis
     birthdate: 1858
-    deathdate: *id001
+    deathdate: 1936
     gutenberg_agent_id: '8001'
     url: http://www.gutenberg.org/2009/agents/8001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17893#The-Best-Ghost-Stories
 gutenberg_issued: '2006-03-01'
 gutenberg_type: Text
 identifiers:
