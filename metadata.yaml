@@ -34,6 +34,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PN'
 - !lcsh 'Ghost stories'
+- GITenberg
 tableOfContents: 'Introduction: "The fascination of the ghost story", by A. B. Reeve
   -- The apparition of Mrs. Veal, by D. De Foe -- Canon Alberic''s scrap-book, by
   M. R. James -- The haunted and the haunters, by E. Bulwer-Lytton -- The silent woman,
